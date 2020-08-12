@@ -81,6 +81,7 @@ img {
   color: white;
   padding: 15px 20px;
   border-radius: 4px;
+  display: inline-block;
 }
 
 .button-green:hover {
